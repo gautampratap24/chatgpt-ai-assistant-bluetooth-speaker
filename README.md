@@ -1,4 +1,4 @@
-# chatgpt-ai-assistant-bluetooth-speaker
+# ChatGPT AI Assistant Bluetooth Speaker
 
 Project Link: https://www.linkedin.com/in/gautampratap/details/projects/21407890/multiple-media-viewer/?profileId=ACoAADHP9oUBWT7X6BwgkQ6alX-RNlucRGqvLhU&treasuryMediaId=1715757201315
 
